@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 01fab29b5fdf89a45b94cf251eef80da
+guid: 391ca0025cd625b42b65a7256d9e6967
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - BM mini
+  - Red Hat Mono
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
