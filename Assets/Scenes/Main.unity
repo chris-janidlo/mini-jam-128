@@ -2014,8 +2014,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: The rest of the cards - every card that isn't ace through five - are the
-    <b><u>economy</b></u> deck.
+  m_text: The rest of the cards - every card that isn't ace, two, three, four, or
+    five - are the <b><u>economy</b></u> deck.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 470d83613762a8e4180a0353c3dc2789, type: 2}
   m_sharedMaterial: {fileID: -3325186469218974148, guid: 470d83613762a8e4180a0353c3dc2789,
@@ -5988,8 +5988,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Separate the ace, one, two, three, four, and five cards of every suit
-    from the rest of the deck. Then split those cards into two decks:
+  m_text: 'Separate the ace, two, three, four, and five cards of every suit from
+    the rest of the deck. Then split those cards into two decks:
 
 '
   m_isRightToLeft: 0
